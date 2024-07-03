@@ -68,7 +68,7 @@ def on_decrypt():
         messagebox.showwarning("Input Error", "Key must be an integer.")
 
 root = tk.Tk()
-root.title("CaesarLock")
+root.title("ImageCipher")
 root.geometry("800x400")
 root.resizable(False, False)
 
@@ -95,6 +95,6 @@ tk.Button(root, text="Decrypt Image", command=on_decrypt).pack(pady=5)
 console_output = tk.Text(root, height=6, width=70)
 console_output.pack(pady=10)
 
-insert_console_output('Welcome to CaesarLock')
+insert_console_output('                       Welcome to ImageCipther')
 
 root.mainloop()
