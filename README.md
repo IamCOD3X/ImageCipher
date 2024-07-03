@@ -49,8 +49,8 @@ ImageCipher is a simple Python GUI application for encrypting and decrypting ima
 
 ## Screenshots
 
-![ImageCipher GUI](./assets/Screenshot/Screenshot1.png)
-
+![ImageCipher GUI](./assets/Screenshot/Screenshot.png)
+![ImageCipher GUI](./assets/Screenshot/Screenshot2.png)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
