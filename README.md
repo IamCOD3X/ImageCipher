@@ -1,6 +1,6 @@
-# CaesarLock
+# ImageCipher
 
-CaesarLock is a simple Python GUI application for encrypting and decrypting images using pixel manipulation. The application allows you to select an image, provide an encryption/decryption key, and then encrypt or decrypt the image.
+ImageCipher is a simple Python GUI application for encrypting and decrypting images using pixel manipulation. The application allows you to select an image, provide an encryption/decryption key, and then encrypt or decrypt the image.
 
 ## Features
 
@@ -19,8 +19,8 @@ CaesarLock is a simple Python GUI application for encrypting and decrypting imag
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/caesarlock.git
-    cd caesarlock
+    git clone https://github.com/IamCOD3X/ImageCipher.git
+    cd ImageCipher
     ```
 
 2. Install the required libraries:
@@ -32,7 +32,7 @@ CaesarLock is a simple Python GUI application for encrypting and decrypting imag
 
 1. Run the application:
     ```bash
-    python caesarlock.py
+    python imagecipher.py
     ```
 
 2. In the GUI:
@@ -43,12 +43,13 @@ CaesarLock is a simple Python GUI application for encrypting and decrypting imag
 
 ## Project Structure
 
-- `caesarlock.py`: The main Python script containing the GUI and encryption/decryption logic.
+- `imagecipher.py`: The main Python script containing the GUI and encryption/decryption logic.
 - `assets/icon.png`: The icon for the application.
+- `assets/screenshot/screenshot1.png`: The screenshot
 
 ## Screenshots
 
-![CaesarLock GUI](./assets/Screenshot/Screenshot1.png)
+![ImageCipher GUI](./assets/Screenshot/Screenshot1.png)
 
 ## License
 
